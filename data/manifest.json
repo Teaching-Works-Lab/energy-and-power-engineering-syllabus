@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "能源与动力工程-2025",
+  "major": "能源与动力工程",
+  "major_code": "080501",
+  "edition": "2025",
+  "institution": "沧州交通学院",
+  "college_doc_label": "机械与动力工程学院",
+  "program_sha256": "966f884a4843da23699605e4dd0d08c1d5a6a005bbf3175342dec13c98c22d01",
+  "counts": {
+    "training_objectives": 4,
+    "graduation_requirements": 11,
+    "indicators": 28,
+    "courses": 87,
+    "course_groups": 15,
+    "relations": 169
+  },
+  "relation_types": {
+    "requirement_supports_objective": 17,
+    "course_supports_indicator": 152
+  },
+  "aggregates": {
+    "credits_display": "180+5",
+    "curricular_credits": 180,
+    "second_classroom_credits": 5,
+    "total_hours": 2880,
+    "practical_credits": 59.375
+  },
+  "validation": {
+    "errors": 0,
+    "advisory_warnings": 35
+  },
+  "source": {
+    "pdf_file": "evidence/06-机械学院-能源与动力工程专业25版人才培养方案.pdf",
+    "docx_file": "evidence/06-机械学院-能源与动力工程专业25版人才培养方案.docx",
+    "pdf_sha256": "ffe8547d576090fe164a1a4211dda1a3e4f2e4e07820fc3ef65237f78d9ae8cb",
+    "page_count": 23
+  },
+  "boundary": "校验结果只说明结构和既定规则检查状态，不表示培养质量、课程达成或官方审核结论。本仓库保留原始 DOCX/PDF 作为证据，属内部私有资料。"
+}
